@@ -7,7 +7,6 @@ body {
   font-family: sans-serif;
 }
 
-/* Game Canvas */
 #board {
   background-color: black;
   display: block;
@@ -16,7 +15,6 @@ body {
   z-index: 1;
 }
 
-/* Score / HUD Panel */
 #hud {
   color: white;
   background-color: #111;
@@ -27,7 +25,6 @@ body {
   align-items: center;
 }
 
-/* Overlays */
 .overlay {
   position: absolute;
   top: 0;
@@ -46,12 +43,10 @@ body {
   padding: 20px;
 }
 
-/* Hide game over screen by default */
 #gameOverScreen {
   display: none;
 }
 
-/* Button Styling */
 button {
   margin-top: 15px;
   padding: 10px 20px;
