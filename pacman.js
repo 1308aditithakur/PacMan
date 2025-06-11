@@ -134,7 +134,6 @@ function loadMap() {
         }
     }
 
-    // Power Pellets in 4 corners
     [[1,1], [1,17], [19,1], [19,17]].forEach(([r, c]) => {
         powerPellets.add(new Block(null, c * tileSize + 10, r * tileSize + 10, 12, 12));
     });
