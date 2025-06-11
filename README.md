@@ -1,5 +1,5 @@
-# 🍒 PacManJS  
-👻🟡 A classic Pac-Man clone built with **HTML**, **CSS**, and **JavaScript**, now supercharged with power-ups, overlays, and UI enhancements!
+# 👻🟡 PacMan
+A classic Pac-Man clone built with **HTML**, **CSS**, and **JavaScript**, now supercharged with power-ups, overlays, and UI enhancements!
 
 ---
 
